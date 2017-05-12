@@ -1,13 +1,3 @@
-Request Text
-COLLECT STATISTICS 
-                   -- default SYSTEM SAMPLE PERCENT 
-                   -- default SYSTEM THRESHOLD PERCENT 
-            COLUMN ( DDCKL_ddccl_id ) , 
-            COLUMN ( DDCKL_ddkln_id ) , 
-            COLUMN ( DDCKL_ddloc_id ) , 
-            COLUMN ( DDCKL_ddlma_id ) , 
-            COLUMN ( DDCKL_ddrcd_id ) , 
-            COLUMN ( DDCKL_ddccl_id,DDCKL_ddkln_id,DDCKL_ddloc_id ) , 
-            COLUMN ( DDCKL_ddccl_id,DDCKL_ddrcd_id ) , 
-            COLUMN ( DDCKL_ddkln_id,DDCKL_ddrcd_id ) 
-                ON DWH_PRD.DWH_D_coh_cm_communicatie_klant ;
+ddkln; ddszo
+1;2
+3;4
